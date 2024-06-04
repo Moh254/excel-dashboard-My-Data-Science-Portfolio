@@ -1,0 +1,2 @@
+### INTERACTIVE EXCEL DASHBOARD 
+Gain a thorough understanding of your bike-buying customers with our versatile Excel dashboard. This tool includes key columns like gender, income, children, education, occupation, home ownership, cars, region, and bike purchase status. Use the interactive features to visualize trends and correlations, enabling you to tailor your marketing strategies and improve customer engagement. Drive smarter decisions with comprehensive demographic insights into bike purchase pattern
